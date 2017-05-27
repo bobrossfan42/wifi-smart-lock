@@ -14,10 +14,10 @@ class App extends Component {
  
     componentDidMount() {
         var config = {
-            apiKey: "AIzaSyCUHLppXkF3zIbYsFk0dU_a_0uyfW2_hCg",
-			authDomain: "smart-lock-701e0.firebaseapp.com",
-			databaseURL: "https://smart-lock-701e0.firebaseio.com",
-			storageBucket: "smart-lock-701e0.appspot.com",
+            apiKey: "replace",
+			authDomain: "replace",
+			databaseURL: "replace",
+			storageBucket: "replace",
 		};
         firebase.initializeApp(config);
  
